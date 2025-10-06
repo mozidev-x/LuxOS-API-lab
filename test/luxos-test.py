@@ -2,7 +2,7 @@ import socket
 import time
 import threading
 
-# act as dummy miner
+# act as miner
 server_addr = "0.0.0.0"
 
 def main():
@@ -15,4 +15,5 @@ def main():
     
 
 if __name__ == "__main__":
+
     main()
